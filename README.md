@@ -1,4 +1,4 @@
-<h1 align="center">👋 Yo! I'm Mradul Kumar</h1>
+<h1 align="center">👋 नमस्ते! I'm Mradul Kumar</h1>
 <h3 align="center">🚀 Just a Curious Learner Messing Around with DSA, Arduino & Life 💻</h3>
 
 ---

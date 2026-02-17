@@ -1,106 +1,102 @@
-<h1 align="center">👋 नमस्ते! I'm Mradul Kumar</h1>
-<h3 align="center">🚀 Just a Curious Learner Messing Around with DSA, Arduino & Life 💻</h3>
+<!-- ========================= -->
+<!--        HEADER AREA        -->
+<!-- ========================= -->
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Coding Cat"/>
-</p>
+<h1 align="center">Hi 👋, I'm Nirusaki</h1>
+<h3 align="center">Full Stack Developer • Linux User • Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nirusaki-malaal&label=Profile%20Views&color=0e75b6&style=flat" alt="nirusaki-malaal" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nirusaki-malaal&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Building+cool+stuff+on+the+web;Flask+%7C+MongoDB+%7C+Docker+%7C+Linux;Open+Source+Learner+%26+Contributor" />
 </p>
 
 ---
 
-### 🧠 About Me
-> 🌀 *“I’m not a pro dev yet… but I’m on my way to become one heck of a problem solver!”*
+## 🚀 About Me
 
-- 🌱 Currently learning **Data Structures & Algorithms**, **Arduino**, and **Electronics**  
-- 🧩 Experimenting with **C/C++**, **Python**, and **Linux**  
-- ⚡ Fun fact: I once fixed a bug by accident and now I fear touching that code again 💀  
-- 🎮 I take debugging as a boss fight... *and I’m still respawning 😭*  
-- 🎯 Goal: *Build cool things that actually work (eventually)*  
+- 💻 I love building **scalable web apps, APIs, and automation tools**
+- 🐧 Daily driving **Arch Linux**
+- 🔐 Interested in **Backend, Linux Internals, Networking & Security**
+- 🧠 Strong in **Problem Solving & Low-level Programming**
+- ⚡ Always learning and experimenting
+
+---
+
+## 🧰 Tech Stack
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+
+### ⚙ Backend
+![Flask](https://img.shields.io/badge/Flask-111?style=for-the-badge&logo=flask)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
+
+### 🧑‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-111?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
+![Bash](https://img.shields.io/badge/Bash-111?style=for-the-badge&logo=gnu-bash)
+
+### 🛠 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-111?style=for-the-badge&logo=arch-linux)
+![Vercel](https://img.shields.io/badge/Vercel-111?style=for-the-badge&logo=vercel)
+![Heroku](https://img.shields.io/badge/Heroku-111?style=for-the-badge&logo=heroku)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-111?style=for-the-badge&logo=ffmpeg)
+![Pyrogram](https://img.shields.io/badge/Pyrogram-111?style=for-the-badge&logo=telegram)
+
+---
+
+## 📌 What I Build
+
+- 🔹 REST APIs & Backend Systems  
+- 🔹 Full Stack Web Applications  
+- 🔹 Linux Automation Scripts  
+- 🔹 Bots & Scrapers  
+- 🔹 Media Processing Pipelines  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Naruto coding"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirusaki-Malaal&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirusaki-Malaal&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirusaki-Malaal&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/nirusaki" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://stackoverflow.com/users/20485231" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/></a>
-  <a href="https://instagram.com/nirusaki" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://www.youtube.com/c/nirusaki" target="blank"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
-  <a href="https://www.leetcode.com/nirusaki" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
+## 🧠 Currently Learning
+
+- Advanced Flask & Backend Architecture  
+- Docker & Container Orchestration  
+- Linux Kernel & System Programming  
+- Networking & Security Fundamentals  
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Nirusaki-Malaal">
+  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="150" alt="Cat working"/>
-</p>
+## 🏁 Fun Fact
 
----
-
-### Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-
-
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirusaki-malaal&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirusaki-malaal&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nirusaki-malaal&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
-
----
-
-### ☕ Support My Learning Journey
-<p align="center">
-  <a href="https://www.buymeacoffee.com/nirusaki" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-  </a>
-  <a href="https://ko-fi.com/nirusaki" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi"/>
-  </a>
-</p>
+> I use Arch btw 😎
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300" alt="Naruto run"/>
-</p>
-
-<h4 align="center">🔥 “Still learning, still vibing — one bug at a time!” 🔥</h4>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="250" alt="Bye cat"/>
+  <img src="https://komarev.com/ghpvc/?username=Nirusaki-Malaal&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>

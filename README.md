@@ -12,15 +12,14 @@
 
 ## ⚡ About Me
 
-I'm a first-year ECE student at **NIT Hamirpur**, freelancing as a full-stack developer and obsessing over the intersection of **AI/ML × Cybersecurity × Systems programming**.
+I'm a ECE student, freelancing as a full-stack developer and obsessing over the intersection of **AI/ML × Cybersecurity × Systems programming**.
 
 My prime focus is building **safe, complex systems** — leveraging web development, machine learning, and security knowledge together, not in isolation.
 
-- 🔭 Flagship project: **Shingaku** — AI-powered adaptive learning platform (Gemini API)
-- 🛡️ CTF practitioner — solved **picoCTF** challenges & completed **Bandit OverTheWire**
-- 🧠 ML from scratch — neural nets, GMM, K-Means, logistic regression, TF-IDF, all in NumPy
-- 🐧 Arch Linux power user — kernel modules, KVM/QEMU GPU passthrough, systemd, the works
-- 🌐 Freelancing under **nirusaki.freelance** — production apps shipped on Vercel + Koyeb
+- 🔭 Flagship projects: **Shingaku** — Automated Learning Platform, Federal RAG, Classic ML Library, NMAP Scan Extension Using Native Hosts
+- 🛡️ CTF practitioner — solving **picoCTFs** challenges & completed **Bandit OverTheWire**
+- 🧠 ML from scratch — neural nets, GMM, K-Means, logistic regression, TF-IDF, all in NumPy and many more....
+- 🌐 Freelancing under **nirusaki.freelance** — current pushed several production apps 
 
 ---
 
@@ -107,9 +106,9 @@ Core interests: **XSS / web exploitation · network security · reverse engineer
 ## 🧠 Currently Grinding
 
 - 📡 **CCNA** — TCP/IP, switching, IPv4, ARP (Jeremy's IT Lab)
-- 🤖 **ML depth** — Andrew Ng curriculum + implementations from scratch
+- 🤖 **ML depth** — Andrew Ng curriculum + implementations from scratch, doing some computer vision and Gen-AI
 - 🔐 **CTF** — picoCTF, OverTheWire wargames
-- ⚙️ **Systems** — x86-64 assembly, kernel internals, low-level C
+- ⚙️ **Systems** — x86-64 assembly, kernel internals, low-level C, Reverse Engineering
 
 ---
 

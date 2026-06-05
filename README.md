@@ -6,8 +6,6 @@
 
 ![](https://img.shields.io/badge/ECE_@_NIT_Hamirpur-2025--2029-00D9FF?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Arch_Linux-daily_driver-1793D1?style=flat-square&logo=arch-linux&labelColor=0d1117)
-![](https://img.shields.io/badge/Electrothon_8.0-2×_Track_Winner_%F0%9F%8F%86-FFD700?style=flat-square&labelColor=0d1117)
-
 </div>
 
 ---

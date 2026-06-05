@@ -87,24 +87,9 @@ My prime focus is building **safe, complex systems** — leveraging web developm
 
 Core interests: **XSS / web exploitation · network security · reverse engineering · OSINT**
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nirusaki-Malaal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirusaki-Malaal&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirusaki-Malaal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF"/>
-</div>
-
----
-
 ## 🧠 Currently Grinding
 
-- 📡 **CCNA** — TCP/IP, switching, IPv4, ARP (Jeremy's IT Lab)
+- 📡 **CCNA** — TCP/IP, switching, IPv4, ARP
 - 🤖 **ML depth** — Andrew Ng curriculum + implementations from scratch, doing some computer vision and Gen-AI
 - 🔐 **CTF** — picoCTF, OverTheWire wargames
 - ⚙️ **Systems** — x86-64 assembly, kernel internals, low-level C, Reverse Engineering

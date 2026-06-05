@@ -4,15 +4,15 @@
 
 <br/>
 
-![](https://img.shields.io/badge/ECE_@_NIT_Hamirpur-2025--2029-00D9FF?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Arch_Linux-daily_driver-1793D1?style=flat-square&logo=arch-linux&labelColor=0d1117)
+![](https://img.shields.io/badge/Nirusaki-2025--2029-00D9FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Developer-1793D1?style=flat-square&logo=arch-linux&labelColor=0d1117)
 </div>
 
 ---
 
 ## ⚡ About Me
 
-I'm a ECE student, freelancing as a full-stack developer and obsessing over the intersection of **AI/ML × Cybersecurity × Systems programming**.
+Hi I'm Nirusaki , freelancing as a full-stack developer and obsessing over the intersection of **AI/ML × Cybersecurity × Systems programming**.
 
 My prime focus is building **safe, complex systems** — leveraging web development, machine learning, and security knowledge together, not in isolation.
 

@@ -4,7 +4,6 @@
 
 <br/>
 
-![](https://img.shields.io/badge/Nirusaki-2025--2029-00D9FF?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Developer-1793D1?style=flat-square&logo=arch-linux&labelColor=0d1117)
 </div>
 

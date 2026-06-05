@@ -103,7 +103,3 @@ Core interests: **XSS / web exploitation · network security · reverse engineer
 </a>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nirusaki-Malaal&label=Profile+Views&color=00D9FF&style=flat-square"/>
-</div>

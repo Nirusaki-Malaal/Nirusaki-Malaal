@@ -1,102 +1,128 @@
-<!-- ========================= -->
-<!--        HEADER AREA        -->
-<!-- ========================= -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Nirusaki</h1>
-<h3 align="center">Full Stack Developer • Linux User • Automation Enthusiast</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Nirusaki+%F0%9F%91%8B;Full-Stack+%7C+AI%2FML+%7C+Security;Building+safe%2C+complex+systems." alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Building+cool+stuff+on+the+web;Flask+%7C+MongoDB+%7C+Docker+%7C+Linux;Open+Source+Learner+%26+Contributor" />
-</p>
+<br/>
 
----
+![](https://img.shields.io/badge/ECE_@_NIT_Hamirpur-2025--2029-00D9FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Arch_Linux-daily_driver-1793D1?style=flat-square&logo=arch-linux&labelColor=0d1117)
+![](https://img.shields.io/badge/Electrothon_8.0-2×_Track_Winner_%F0%9F%8F%86-FFD700?style=flat-square&labelColor=0d1117)
 
-## 🚀 About Me
-
-- 💻 I love building **scalable web apps, APIs, and automation tools**
-- 🐧 Daily driving **Arch Linux**
-- 🔐 Interested in **Backend, Linux Internals, Networking & Security**
-- 🧠 Strong in **Problem Solving & Low-level Programming**
-- ⚡ Always learning and experimenting
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## ⚡ About Me
 
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+I'm a first-year ECE student at **NIT Hamirpur**, freelancing as a full-stack developer and obsessing over the intersection of **AI/ML × Cybersecurity × Systems programming**.
 
-### ⚙ Backend
-![Flask](https://img.shields.io/badge/Flask-111?style=for-the-badge&logo=flask)
-![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
+My prime focus is building **safe, complex systems** — leveraging web development, machine learning, and security knowledge together, not in isolation.
 
-### 🧑‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-111?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
-![Bash](https://img.shields.io/badge/Bash-111?style=for-the-badge&logo=gnu-bash)
-
-### 🛠 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-111?style=for-the-badge&logo=arch-linux)
-![Vercel](https://img.shields.io/badge/Vercel-111?style=for-the-badge&logo=vercel)
-![Heroku](https://img.shields.io/badge/Heroku-111?style=for-the-badge&logo=heroku)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-111?style=for-the-badge&logo=ffmpeg)
-![Pyrogram](https://img.shields.io/badge/Pyrogram-111?style=for-the-badge&logo=telegram)
+- 🔭 Flagship project: **Shingaku** — AI-powered adaptive learning platform (Gemini API)
+- 🛡️ CTF practitioner — solved **picoCTF** challenges & completed **Bandit OverTheWire**
+- 🧠 ML from scratch — neural nets, GMM, K-Means, logistic regression, TF-IDF, all in NumPy
+- 🐧 Arch Linux power user — kernel modules, KVM/QEMU GPU passthrough, systemd, the works
+- 🌐 Freelancing under **nirusaki.freelance** — production apps shipped on Vercel + Koyeb
 
 ---
 
-## 📌 What I Build
+## 🛠️ Tech Stack
 
-- 🔹 REST APIs & Backend Systems  
-- 🔹 Full Stack Web Applications  
-- 🔹 Linux Automation Scripts  
-- 🔹 Bots & Scrapers  
-- 🔹 Media Processing Pipelines  
+### Languages
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+
+### Frontend
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+### AI / ML
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-0d1117?style=for-the-badge&logo=heroku&logoColor=430098)
+![Railway](https://img.shields.io/badge/Railway-0d1117?style=for-the-badge&logo=railway&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Google Cloud](https://img.shields.io/badge/GCloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+
+### Tools & Environment
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-0d1117?style=for-the-badge&logo=arch-linux&logoColor=1793D1)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![Zsh](https://img.shields.io/badge/Zsh-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-0d1117?style=for-the-badge&logo=ffmpeg&logoColor=007808)
+![Pyrogram](https://img.shields.io/badge/Pyrogram-0d1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0)
+
+---
+
+## 🔐 Security & CTFs
+
+```
+✔  picoCTF          — Web exploitation, binary, forensics, crypto
+✔  Bandit OverTheWire — Linux privilege escalation & shell fundamentals
+→  Building toward: AI × Security systems
+```
+
+Core interests: **XSS / web exploitation · network security · reverse engineering · OSINT**
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nirusaki-Malaal&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirusaki-Malaal&theme=tokyonight" height="165"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirusaki-Malaal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirusaki-Malaal&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" height="170"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirusaki-Malaal&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🧠 Currently Learning
-
-- Advanced Flask & Backend Architecture  
-- Docker & Container Orchestration  
-- Linux Kernel & System Programming  
-- Networking & Security Fundamentals  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirusaki-Malaal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF"/>
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🧠 Currently Grinding
 
-<p align="left">
+- 📡 **CCNA** — TCP/IP, switching, IPv4, ARP (Jeremy's IT Lab)
+- 🤖 **ML depth** — Andrew Ng curriculum + implementations from scratch
+- 🔐 **CTF** — picoCTF, OverTheWire wargames
+- ⚙️ **Systems** — x86-64 assembly, kernel internals, low-level C
+
+---
+
+## 📫 Let's Connect
+
 <a href="https://github.com/Nirusaki-Malaal">
-  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Nirusaki--Malaal-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
-</p>
 
 ---
 
-## 🏁 Fun Fact
-
-> I use Arch btw 😎
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nirusaki-Malaal&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nirusaki-Malaal&label=Profile+Views&color=00D9FF&style=flat-square"/>
+</div>

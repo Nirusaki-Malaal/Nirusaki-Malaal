@@ -97,8 +97,23 @@ Core interests: **XSS / web exploitation · network security · reverse engineer
 
 ## Connect
 
+<a href="https://nirusaki.me">
+  <img src="https://img.shields.io/badge/Portfolio-nirusaki.me-0d1117?style=for-the-badge&logo=firefox&logoColor=00D9FF&labelColor=0d1117"/>
+</a>
 <a href="https://github.com/Nirusaki-Malaal">
   <img src="https://img.shields.io/badge/GitHub-Nirusaki--Malaal-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+<a href="https://linkedin.com/in/nirusaki">
+  <img src="https://img.shields.io/badge/LinkedIn-nirusaki-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117"/>
+</a>
+<a href="https://instagram.com/nirusaki">
+  <img src="https://img.shields.io/badge/Instagram-@nirusaki-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0d1117"/>
+</a>
+<a href="https://t.me/nirusaki">
+  <img src="https://img.shields.io/badge/Telegram-@nirusaki-0d1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0&labelColor=0d1117"/>
+</a>
+<a href="https://youtube.com/@nirusaki">
+  <img src="https://img.shields.io/badge/YouTube-@nirusaki-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0d1117"/>
 </a>
 
 ---

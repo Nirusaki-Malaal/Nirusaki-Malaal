@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Nirusaki+%F0%9F%91%8B;Full-Stack+%7C+AI%2FML+%7C+Security;Building+safe%2C+complex+systems." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Nirusaki;Full-Stack+%7C+AI%2FML+%7C+Security;Building+safe%2C+complex+systems." alt="Typing SVG" />
 
 <br/>
 
@@ -9,20 +9,20 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
-Hi I'm Nirusaki , freelancing as a full-stack developer and obsessing over the intersection of **AI/ML × Cybersecurity × Systems programming**.
+Hi, I'm Nirusaki. I freelance as a full-stack developer and spend most of my time obsessing over the intersection of **AI/ML x Cybersecurity x Systems programming**.
 
-My prime focus is building **safe, complex systems** — leveraging web development, machine learning, and security knowledge together, not in isolation.
+My prime focus is building **safe, complex systems** -- leveraging web development, machine learning, and security knowledge together, not in isolation.
 
-- 🔭 Flagship projects: **Shingaku** — Automated Learning Platform, Federal RAG, Classic ML Library, NMAP Scan Extension Using Native Hosts
-- 🛡️ CTF practitioner — solving **picoCTFs** challenges & completed **Bandit OverTheWire**
-- 🧠 ML from scratch — neural nets, GMM, K-Means, logistic regression, TF-IDF, all in NumPy and many more....
-- 🌐 Freelancing under **nirusaki.freelance** — current pushed several production apps 
+- Flagship projects: **Shingaku** -- Automated Learning Platform, Federal RAG, Classic ML Library, NMAP Scan Extension Using Native Hosts
+- CTF practitioner -- solving **picoCTFs** challenges & completed **Bandit OverTheWire**
+- ML from scratch -- neural nets, GMM, K-Means, logistic regression, TF-IDF, all in NumPy and many more
+- Freelancing under **nirusaki.freelance** -- pushed several production apps
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -30,7 +30,6 @@ My prime focus is building **safe, complex systems** — leveraging web developm
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
 
 ### Frontend
@@ -56,7 +55,7 @@ My prime focus is building **safe, complex systems** — leveraging web developm
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 
 ### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
@@ -77,26 +76,26 @@ My prime focus is building **safe, complex systems** — leveraging web developm
 
 ---
 
-## 🔐 Security & CTFs
+## Security & CTFs
 
 ```
-✔  picoCTF          — Web exploitation, binary, forensics, crypto
-✔  Bandit OverTheWire — Linux privilege escalation & shell fundamentals
-→  Building toward: AI × Security systems
+done   picoCTF          -- Web exploitation, binary, forensics, crypto
+done   Bandit OverTheWire -- Linux privilege escalation & shell fundamentals
+->     Building toward: AI x Security systems
 ```
 
 Core interests: **XSS / web exploitation · network security · reverse engineering · OSINT**
 
-## 🧠 Currently Grinding
+## Currently Grinding
 
-- 📡 **CCNA** — TCP/IP, switching, IPv4, ARP
-- 🤖 **ML depth** — Andrew Ng curriculum + implementations from scratch, doing some computer vision and Gen-AI
-- 🔐 **CTF** — picoCTF, OverTheWire wargames
-- ⚙️ **Systems** — x86-64 assembly, kernel internals, low-level C, Reverse Engineering
+- **CCNA** -- TCP/IP, switching, IPv4, ARP
+- **ML depth** -- Andrew Ng curriculum + implementations from scratch, computer vision and Gen-AI
+- **CTF** -- picoCTF, OverTheWire wargames
+- **Systems** -- x86-64 assembly, kernel internals, low-level C, Reverse Engineering
 
 ---
 
-## 📫 Let's Connect
+## Connect
 
 <a href="https://github.com/Nirusaki-Malaal">
   <img src="https://img.shields.io/badge/GitHub-Nirusaki--Malaal-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>

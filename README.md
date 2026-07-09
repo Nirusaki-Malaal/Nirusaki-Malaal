@@ -11,14 +11,15 @@
 
 ## About Me
 
-Hi, I'm Nirusaki. I freelance as a full-stack developer and spend most of my time obsessing over the intersection of **AI/ML x Cybersecurity x Systems programming**.
+Hi, I'm Nirusaki. I freelance my lonely ahh without touching any grass creating webapps solving CTFs  and spend most of my time obsessing over the intersection of **GLAZING MY SCREEN**.
 
-My prime focus is building **safe, complex systems** -- leveraging web development, machine learning, and security knowledge together, not in isolation.
+My prime focus is to touch some grass LoL Jokes Apart **AI/ML + Cybersecurity** -- leveraging web development, machine learning, and security knowledge together.
 
-- Flagship projects: **Shingaku** -- Automated Learning Platform, Federal RAG, Classic ML Library, NMAP Scan Extension Using Native Hosts
-- CTF practitioner -- solving **picoCTFs** challenges & completed **Bandit OverTheWire**
+- Flagship projects: **Shingaku** -- Automated Learning Platform, Federal RAG, Neutronix ML Library wrote from scratch, NMAP Scan Extension Using Native Hosts
+- I Don't Like The Idea of Vibe Coding except CSS........ LoL
+- CTF practitioner -- solving **picoCTFs** challenges & completed **Bandit OverTheWire** 70 Done Till Now
 - ML from scratch -- neural nets, GMM, K-Means, logistic regression, TF-IDF, all in NumPy and many more
-- Freelancing under **nirusaki.freelance** -- pushed several production apps
+- Freelancing under my part time if the time is sufficent and the pay is sufficent you ain't getting a vibe coded project but if the pay is shit the code is sloppy and shit
 
 ---
 

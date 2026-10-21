@@ -38,6 +38,7 @@ fuck memorizing five ways to write the same app when llms can handle the boilerp
 the interesting part is knowing what youre building
 
 ```text
+what i know
 languages  python  javascript  c  c++
 tools      cmake  make  docker
 databases  postgresql  mongodb  redis

@@ -57,4 +57,3 @@ data       PostgreSQL / MongoDB / Redis / MySQL
 I won't be spamming frameworks here. Fuck frameworks as a personality;
 I just wanna learn the concepts.
 
-[nirusaki.me](https://nirusaki.me)

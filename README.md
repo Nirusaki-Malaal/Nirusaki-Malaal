@@ -49,7 +49,7 @@ backend, or low-level systems. These days I'm fucking obsessed with
 figuring out how things work under the hood is.
 
 ```text
-languages  Python / JavaScript / C++ / C / Rust / TypeScript / Shell
+languages  Python / JavaScript / C++ / C / Shell
 build      CMake / Make / Docker
 data       PostgreSQL / MongoDB / Redis / MySQL
 ```

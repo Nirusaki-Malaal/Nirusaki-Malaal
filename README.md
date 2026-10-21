@@ -34,5 +34,5 @@ I just wanna learn the concepts behind them fuck frameworks :-).
 ```text
 languages  python / javascript / c / c++ 
 tools      cmake / make / docker
-databases       PostgreSQL / mongodb / redis
+databases  postgresql / mongodb / redis
 ```

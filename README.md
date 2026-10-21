@@ -23,8 +23,6 @@
 
 hey i'm nirusaki
 
-[portfolio & blog](https://nirusaki.tech/)
-
 ai and ml frontend backend low level systems...
 if its computer science i'll probably get curious and take a dive into it
 these days it is  mostly systems programming and cybersecurity
@@ -45,3 +43,5 @@ languages  python  javascript  c  c++
 tools      cmake  make  docker
 databases  postgresql  mongodb  redis
 ```
+
+[portfolio & blog](https://nirusaki.tech/)

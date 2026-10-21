@@ -23,17 +23,17 @@
 
 hey, i'm **nirusaki**.
 
-Pretty much any computer science topic can send me down a rabbit hole:
-AI/ML, frontend, backend, low-level systems. These days I'm fucking obsessed with
-**systems programming and cybersecurity**.
+AI/ML, frontend, backend, low-level systems... if it's computer science,
+I'll probably get curious and take it apart. These days it's mostly
+**systems programming and cybersecurity**. Fucking hard to get bored here.
 
-Building stuff is fun too, whether that's porting an old console game to
-PC, putting together a SaaS, or making a mobile app. DSA isn't really my thing;
-figuring out how things work under the hood is. You can look through my
-projects too...
+Old console game needs a PC port? A SaaS idea? A mobile app? Sounds like
+something to figure out. DSA isn't really my thing; finding out what makes
+the whole thing tick is. The repos can do the rest of the talking.
 
-No framework spam here. Just wanna learn the concepts behind them.
-Fuck frameworks, learning a bunch of them feels obsolete with LLMs around :-).
+No framework collection to flex here. Just the concepts behind them.
+Fuck memorizing five ways to write the same app when LLMs can handle
+the boilerplate. The interesting part is knowing what you're building :-).
 
 ```text
 languages  python / javascript / c / c++ 

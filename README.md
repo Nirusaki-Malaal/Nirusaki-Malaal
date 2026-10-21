@@ -32,7 +32,7 @@ I won't be spamming frameworks here.
 I just wanna learn the concepts behind them fuck frameworks :-).
 
 ```text
-languages  Python / JavaScript / C / C++ 
-tools      CMake / Make / Docker
-data       PostgreSQL / MongoDB / Redis
+languages  python / javascript / c / c++ 
+tools      cmake / make / docker
+databases       PostgreSQL / mongodb / redis
 ```

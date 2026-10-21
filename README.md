@@ -29,7 +29,7 @@ backend, or low-level systems. These days I'm fucking obsessed with
 figuring out how things work under the hood is you can look into my projects too...
 
 I won't be spamming frameworks here.
-I just wanna learn the concepts behind them fuck frameworks :-).
+I just wanna learn the concepts behind them fuck frameworks, i feel LLMs have made learning multiple framework obsolete :-).
 
 ```text
 languages  python / javascript / c / c++ 

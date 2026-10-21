@@ -6,14 +6,14 @@
  .. .....:=*::::::.*%.           nirusaki@arch
   .      .-----::::**-.          ----------------------
           :.:::::-*=..
-       .:::     .:--.            os     Arch Linux
+       .:::     .:--.            os     archbtwbixth
 ....:-::==:        :..      ..
-:.:=+=::-:          .-:.:... .   into   systems programming
-+++--==-=.            .:--:::.          cybersecurity
-+*****+=-           .:  *#+==:
-       ..         .:==-=*+...:   learn  computer science
-+*===----        :======++=+=-
-=%%#---==        .::-=-=#=.-:-          concepts first
+:.:=+=::-:          .-:.:... .   into   systems programming cybersecurity
++++--==-=.            .:--:::. 
++*****+=-           .:  *#+==:   learn  computer science concepts first
+       ..         .:==-=*+...:   
++*===----        :======++=+=-   from   india
+=%%#---==        .::-=-=#=.-:-          
 ++%###%#:           :=++%*-=-+
   .:=+#%=          .-=%+***###
      :+#:..  .... .--=- :=*%%-

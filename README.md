@@ -21,21 +21,21 @@
 **+     ..................:.:-
 ```
 
-hey im nirusaki
+hey i'm nirusaki
 
-ai and ml frontend backend low level systems
-if its computer science ill probably get curious and take it apart
-these days its mostly systems programming and cybersecurity
-fucking hard to get bored here
+ai and ml frontend backend low level systems...
+if its computer science i'll probably get curious and take a dive into it
+these days it is  mostly systems programming and cybersecurity
+fucking hard to get bored here..
 
-porting an old console game to pc building a saas or making a mobile app
-sounds like something to figure out
-dsa isnt really my thing but finding out what makes the whole thing tick is
+i also like building apps like porting an old console game to pc building , a saas or maybe making a mobile app
+sounds like something to figure out...
+dsa isnt really my thing
 the repos can do the rest of the talking
 
-no framework collection to flex here just the concepts behind them
+no frameworks spam here just learning the concepts behind them
 fuck memorizing five ways to write the same app when llms can handle the boilerplate
-the interesting part is knowing what youre building
+the interesting part is knowing what you are building
 
 ```text
 what i know
